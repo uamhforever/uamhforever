@@ -9,8 +9,10 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uamhforever&show_icons=true">](https://metrics.lecoq.io/uamhforever?template=classic)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![C#](https://img.shields.io/badge/-CSharp-%23239120?style=flat-square&logo=csharp&logoColor=983DAD&labelColor=%23ffffff&color=%23ffffff)
+![C#](https://img.shields.io/badge/-CSharp-%23239120?style=flat-square&logo=csharp&logoColor=ffffff&labelColor=%23983DAD&color=%23983DAD)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=4B8BBE&labelColor=%233776ABC&color=%23646464)
+![VBA](https://img.shields.io/badge/-VBA-%23217346?style=flat-square&logo=microsoftexcel&logoColor=ffffff&labelColor=%23217346&color=%23217346)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 
