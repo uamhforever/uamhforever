@@ -1,3 +1,4 @@
+### Hey, Quy here! 👋    ![](https://img.shields.io/badge/Quy-OpticChaser-orange)
 <p align="left">  
 	<a href="https://github.com/uamhforever"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.zhihu.com/people/qu-yong-95"><img src="imgs/zhihu.svg" alt="知乎"></a>
@@ -5,12 +6,8 @@
 	
 </p>
 
-### Hey, Quy here! 👋    ![](https://img.shields.io/badge/Quy-OpticChaser-orange)
-
 ## Some Facts
-Here are some facts to know me:
-
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uamhforever&theme=dark&show_icons=true">](https://metrics.lecoq.io/uamhforever?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uamhforever&show_icons=true">](https://metrics.lecoq.io/uamhforever?template=classic)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![C#](https://img.shields.io/badge/-CSharp-%23239120?style=flat-square&logo=csharp)
@@ -33,7 +30,7 @@ C#           20 hrs 32 mins  █████████████████
 ```
 <!--END_SECTION:waka-->
 
-## my todolist stats
+## My Todo-List Stats
 <!-- TODO-IST:START -->
 ✏️  Write a optical macro editor          
 🌸  Complete Glass Map Plotter           
