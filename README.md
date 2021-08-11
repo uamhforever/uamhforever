@@ -28,6 +28,6 @@ C#           20 hrs 32 mins  █████████████████
 ✏️  Write a optical macro editor          
 🌸  Complete Glass Map Plotter           
 ✅  Complete Automatic export optical performance to excel          
-⏳   Complete optical raytrace program.
+⏳   Complete optical raytrace program
 👊  Study global optimization algorithm & deep learning
 <!-- TODO-IST:END -->
