@@ -10,8 +10,10 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uamhforever&show_icons=true">](https://metrics.lecoq.io/uamhforever?template=classic)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![C#](https://img.shields.io/badge/-CSharp-%23239120?style=flat-square&logo=csharp)
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python)
+![C#](https://img.shields.io/badge/-CSharp-%23239120?style=flat-square&logo=csharp&logoColor=983DAD&labelColor=%23ffffff&color=%23ffffff)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=4B8BBE&labelColor=%233776ABC&color=%23646464)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 
 - 🔭 I’m currently working on write a optical macro editor with syntax highlight and other some features.
 - ⚡ I’m currently learning how to build a compiler.
