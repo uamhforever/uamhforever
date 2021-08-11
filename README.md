@@ -2,9 +2,6 @@ https://img.shields.io/badge/Quy-OpticChaser-orange
 
 ### About me 👋
 
-<!--
-**uamhforever/uamhforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some facts to know me:
 
 - 🔭 I’m currently working on write a optical macro editor with syntax highlight and other some features.
@@ -15,4 +12,3 @@ Here are some facts to know me:
 - 📫 How to reach me: just send me a email to 570744756@qq.com
 - 😄 Be happy to lens design, and you will find the fun of it.
 - ⚡ Fun fact: ...
--->
