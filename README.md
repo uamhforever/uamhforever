@@ -1,6 +1,6 @@
-https://img.shields.io/badge/Quy-OpticChaser-orange
 
-### About me 👋
+
+### About me 👋 [![](https://img.shields.io/badge/Quy-OpticChaser-orange)]()
 
 Here are some facts to know me:
 
@@ -15,3 +15,10 @@ Here are some facts to know me:
 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=uamhforever)]()
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+C#           20 hrs 32 mins  ████████████████████████   100 % 
+```
+<!--END_SECTION:waka-->
