@@ -12,3 +12,6 @@ Here are some facts to know me:
 - 📫 How to reach me: just send me a email to 570744756@qq.com
 - 😄 Be happy to lens design, and you will find the fun of it.
 - ⚡ Fun fact: ...
+
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=uamhforever)]()
