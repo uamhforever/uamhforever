@@ -2,8 +2,7 @@
 <p align="left">  
 	<a href="https://github.com/uamhforever"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.zhihu.com/people/qu-yong-95"><img src="imgs/zhihu.svg" alt="知乎"></a>
-	<a href="https://raw.githubusercontent.com/uamhforever/uamhforever/master/imgs/wechat-qr-code.jpg"><img src="imgs/wechat.svg" alt="微信"></a>
-	
+	<a href="https://raw.githubusercontent.com/uamhforever/uamhforever/master/imgs/wechat-qr-code.jpg"><img src="imgs/wechat.svg" alt="微信"></a>	
 </p>
 
 ## Some Facts
@@ -28,7 +27,8 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-C#           20 hrs 32 mins  ████████████████████████   100 % 
+C#           20 hrs 00 mins   ████████████░░░░░░░░░░░░   50.0 % 
+Lens Design  20 hrs 00 mins   ████████████░░░░░░░░░░░░   50.0 %
 ```
 <!--END_SECTION:waka-->
 
