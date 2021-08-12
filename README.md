@@ -1,18 +1,21 @@
-### Hey, Quy here! 👋    ![](https://img.shields.io/badge/Quy-OpticChaser-orange)
+### Hey, Quy here! 👋    
+![](https://img.shields.io/badge/Quy-OpticChaser-orange)
+[![Github](https://img.shields.io/github/followers/ohtorii?label=Follow&style=social)](https://github.com/ohtorii)
 <p align="left">  
 	<a href="https://github.com/uamhforever"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://img.shields.io/github/followers/uamhforever?label=Follow&style=social" alt="GitHub"></a>
 	<a href="https://www.zhihu.com/people/qu-yong-95"><img src="imgs/zhihu.svg" alt="知乎"></a>
 	<a href="https://raw.githubusercontent.com/uamhforever/uamhforever/master/imgs/wechat-qr-code.jpg"><img src="imgs/wechat.svg" alt="微信"></a>	
 </p>
 
 ## Some Facts
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uamhforever&show_icons=true">](https://metrics.lecoq.io/uamhforever?template=classic)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uamhforever)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" text="uamhforever's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=uamhforever&show_icons=true">](https://metrics.lecoq.io/uamhforever?template=classic)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![C#](https://img.shields.io/badge/-CSharp-%23239120?style=flat-square&logo=csharp&logoColor=ffffff&labelColor=%23983DAD&color=%23983DAD)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=4B8BBE&labelColor=%233776ABC&color=%23646464)
 ![VBA](https://img.shields.io/badge/-VBA-%23217346?style=flat-square&logo=microsoftexcel&logoColor=ffffff&labelColor=%23217346&color=%23217346)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 
@@ -43,3 +46,4 @@ Lens Design  20 hrs 00 mins   ████████████░░░░�
 
 👊  Study global optimization algorithm & deep learning
 <!-- TODO-IST:END -->
+
