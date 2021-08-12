@@ -16,7 +16,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-%2390E59A?style=flat-square&logo=notepadplusplus&logoColor=ffffff&labelColor=%23217346&color=%2390E59A)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-%2344A833?style=flat-square&logo=anaconda&logoColor=ffffff&labelColor=%23000000&color=%2344A833)
-![Pycharm](https://img.shields.io/badge/-Pycharm-%23000000?style=flat-square&logo=pycharm&logoColor=ffffff&labelColor=%23000000&color=%23000000)
+![Pycharm](https://img.shields.io/badge/-Pycharm-%2335de81?style=flat-square&logo=pycharm&logoColor=000000&labelColor=%2335de81&color=%2335de81)
 
 ![C#](https://img.shields.io/badge/-CSharp-%23239120?style=flat-square&logo=csharp&logoColor=ffffff&labelColor=%23983DAD&color=%23983DAD)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=4B8BBE&labelColor=%233776ABC&color=%23646464)
