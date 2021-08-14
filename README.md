@@ -1,6 +1,6 @@
 ### Hey, Quy here! 👋    
 ![](https://img.shields.io/badge/Quy-OpticChaser-orange)
-[![Github](https://img.shields.io/github/followers/ohtorii?label=Follow&style=social)](https://github.com/ohtorii)
+[![Github](https://img.shields.io/github/followers/uamhforever?label=Follow&style=social)](https://github.com/uamhforever)
 <p align="left">  
 	<a href="https://github.com/uamhforever"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://img.shields.io/github/followers/uamhforever?label=Follow&style=social" alt="GitHub"></a>
